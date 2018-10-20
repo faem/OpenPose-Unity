@@ -1,21 +1,8 @@
-# Bangla-AR-Book
-Bangla ARbook is a cross-platform app that is developed using Unity3d. It is an Augmented Reality app for pre-primary 
-school student to teach them Bengali alphabet using augmented 3d model. It uses the pre -primary board book for 
-augmentation. This app was developed as a part of a conference paper (submitted for review, not published yet).
-
-### Features:
-* Augmented 3d model for each picture in the book.
-* Image targets are integrated in the app. I also tried using Cloud image target.
-* All the model are in a web server, they are downloaded based on the image target from the server.
-* Testing feature to test if they learned well or not.
-
-### Technology/Library used:
-* Unity3d
-* Vuforia Augmented Reality library
-* 3d Assetbundle from webserver.
+# OpenPose for Unity (Using OpenCV)
+Tried to implement OpenPose (only single person) in Unity. But it lags too much. On my PC, it is running at 4/5 fps.  But on Android, it is only 1 fps. 
 
 ### Video Demo:
-[![AR BOOk Demo](https://img.youtube.com/vi/rYf85EDsgYc/0.jpg)](https://youtu.be/rYf85EDsgYc)
+[![AR BOOk Demo](https://dms.licdn.com/video-thumbs/C5105AQGRuqa4TO12Rw/04d55ae1ce764ccc8a1ba7ae929b3b58/feedshare-videocover_high-overlay/360x720-00001.jpg)](https://www.linkedin.com/feed/update/urn:li:activity:6440948664256032768)
 
 ### Running Instruction:
 This project uses OpenCV for unity package. So, import it from asset store first. (It is NOT free :p)
