@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/OpenPoseTF/Menu.unity
+    guid: dc14f84e83b63ba4e900b539f113aaff
+  - enabled: 1
+    path: Assets/OpenPoseTF/OpenPoseImage.unity
+    guid: 38f9fc348511ae140811376ad5b83720
+  - enabled: 1
+    path: Assets/OpenPoseTF/OpenPoseWebcam.unity
+    guid: 1acb188fd0c69f843a3d2f3f777cda63

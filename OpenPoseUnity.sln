@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenPoseUnity", "OpenPoseUnity.csproj", "{6C7F1B9F-D25E-0626-D012-D3A3A38B23CC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenPoseUnity.Editor", "OpenPoseUnity.Editor.csproj", "{B5503043-E931-0706-CCBE-1A97809DEAEB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6C7F1B9F-D25E-0626-D012-D3A3A38B23CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C7F1B9F-D25E-0626-D012-D3A3A38B23CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C7F1B9F-D25E-0626-D012-D3A3A38B23CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C7F1B9F-D25E-0626-D012-D3A3A38B23CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B5503043-E931-0706-CCBE-1A97809DEAEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5503043-E931-0706-CCBE-1A97809DEAEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5503043-E931-0706-CCBE-1A97809DEAEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5503043-E931-0706-CCBE-1A97809DEAEB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
